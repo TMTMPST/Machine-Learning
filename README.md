@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Repository
+# 🤖 Machine Learning
 
 Repository ini berisi kumpulan praktikum, tugas, dan proyek machine learning untuk mata kuliah Machine Learning di tingkat perguruan tinggi.
 
