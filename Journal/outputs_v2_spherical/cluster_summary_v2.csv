@@ -1,0 +1,7 @@
+cluster,typology,size,pct,energy,valence,danceability,acousticness,instrumentalness
+0,"    Acoustic
+Name: 0, dtype: object",74205,37.1025,0.20514973,0.25336248,0.38086694,0.83539134,0.4564535
+1,"    Intense/Aggressive (Electronic, Dark)
+Name: 1, dtype: object",56825,28.4125,0.7628928,0.35867816,0.43492037,0.096474454,0.27123794
+2,"    Mixed/Mainstream
+Name: 2, dtype: object",68970,34.485,0.62733424,0.6735933,0.66179943,0.3183673,0.10351364

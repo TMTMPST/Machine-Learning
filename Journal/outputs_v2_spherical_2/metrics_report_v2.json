@@ -1,0 +1,15 @@
+{
+  "dataset_size": 200000,
+  "n_features_original": 12,
+  "n_components_pca": 12,
+  "variance_explained_pca": 1.0,
+  "optimal_k": 3,
+  "silhouette_score": 0.29089520736335783,
+  "davies_bouldin_score": 2.118195808034225,
+  "calinski_harabasz_score": 44512.17653472608,
+  "inertia": 137694.66658601633,
+  "balance_score": 0.13374004402197573,
+  "avg_intra_cluster_dist": 0.44323884480831643,
+  "avg_inter_cluster_dist": 1.4378739843407438,
+  "separation_cohesion_ratio": 3.2440161804017165
+}

@@ -1,0 +1,3 @@
+cluster,typology,size,pct,energy,valence,danceability,acousticness,instrumentalness
+0,"    Mixed/Mainstream
+Name: 0, dtype: object",200000,100.0,0.5092088,0.4282019,0.49310446,0.44715086,0.28211784

@@ -1,0 +1,13 @@
+{
+  "algorithm": "DBSCAN",
+  "dataset_size": 200000,
+  "n_features_original": 12,
+  "n_components_pca": 12,
+  "variance_explained_pca": 1.0,
+  "eps": 0.2412575472678421,
+  "min_samples": 20,
+  "n_clusters": 1,
+  "n_noise": 0,
+  "noise_pct": 0.0,
+  "silhouette_score": null
+}
